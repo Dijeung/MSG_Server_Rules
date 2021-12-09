@@ -1,1 +1,1 @@
-# serverrules
+# server_rules
