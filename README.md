@@ -1,1 +1,1 @@
-# server_rules
+# MSG_Server_Rules
